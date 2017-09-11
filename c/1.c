@@ -1,4 +1,5 @@
 #include <stdio.h>
+//最大子列和问题
 int main (void)
 {
     int num;
