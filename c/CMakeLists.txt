@@ -3,5 +3,5 @@ project(c)
 
 set(CMAKE_C_STANDARD 99)
 
-set(SOURCE_FILES 2-1.c)
+set(SOURCE_FILES 3-1.c)
 add_executable(c ${SOURCE_FILES})
